@@ -6,9 +6,7 @@ This document describes the directory structure and organization of the Multi-Ag
 
 ```
 multi-agent-etl-platform/
-├── .kiro/                          # Kiro specifications
 │   └── specs/
-│       └── multi-agent-etl-platform/
 │           ├── design.md           # Design document
 │           ├── requirements.md     # Requirements document
 │           └── tasks.md            # Implementation tasks
