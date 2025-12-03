@@ -21,6 +21,10 @@ The platform uses a microservices architecture with:
 - Orchestrator Service
 - Metadata Store
 
+## Architecture Design
+
+<img width="1025" height="678" alt="ETL_agent" src="https://github.com/user-attachments/assets/c9742bef-f792-4d46-85b8-8af5d798ce1c" />
+
 ## Setup
 
 ### Prerequisites
